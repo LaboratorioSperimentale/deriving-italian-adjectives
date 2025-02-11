@@ -6,4 +6,34 @@ architettonico
 costiero
 idrico
 
-...
+# DESCRIPTIVE
+nuovo
+vecchio
+rotondo
+silzioso
+grande
+verde
+
+# EVALUATIVE
+bello
+buono
+orrendo
+cattivo
+stupido
+fantastico
+
+# PHYSICAL/HEALTH RELATED
+chimico
+biologico
+ospedaliero
+genetico
+visivo
+malato
+
+# MEMBERSHIP
+italiano
+americano
+democratico
+straniero
+domestico
+cristiano
