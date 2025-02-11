@@ -1,0 +1,9 @@
+# RELATIONAL
+primo
+ultimo
+notturno
+architettonico
+costiero
+idrico
+
+...

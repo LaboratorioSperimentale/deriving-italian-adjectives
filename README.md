@@ -8,5 +8,5 @@
 6. [Ivan] random sample of 250 adjectives  extracted from each cluster
 7. [Ivan] random sample of 500 overall adjectives
 8. [Ivan] code for neighbor-based classification
-9. [Ludovica] code for wordnet synsets
-10. [DONE] [Ludovica] wordnet synsets output
+9. [DONE] code for wordnet synsets
+10. [DONE] wordnet synsets output
